@@ -3,10 +3,10 @@ This requires Visual studio 2010 SP1 or Visual Studio 2012 to open it.
 Should run on Windows or on Linux under mono.
 
 This application must be passed 4 arguments:
-  * <username> - The username of the user requesting a calendar. (E.g. abc1d23).
-  * <password> - The pass word of the user requesting a calendar.
-  * <calendar> - The name of the calendar. (E.g. building 32 room 4049 would be b32r4049).
-  * <writefile> - The file to write the iCal for the calendar to. (E.g. C:\Users\User\b32r4049.ics or Windows or /home/user/b32r4049.ics on Linux).
+  **username>** - The username of the user requesting a calendar. (E.g. abc1d23).
+  **<password>** - The pass word of the user requesting a calendar.
+  **<calendar>** - The name of the calendar. (E.g. building 32 room 4049 would be b32r4049).
+  **<writefile>** - The file to write the iCal for the calendar to. (E.g. C:\Users\User\b32r4049.ics or Windows or /home/user/b32r4049.ics on Linux).
 
 
 ## Running Under Windows ##
